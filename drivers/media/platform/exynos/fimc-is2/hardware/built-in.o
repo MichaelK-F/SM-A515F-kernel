@@ -1,0 +1,31 @@
+!<thin>
+//                                              316       `
+fimc-is-hw-control.o/
+fimc-is-hw-paf-rdma.o/
+fimc-is-hw-3aa.o/
+fimc-is-hw-isp.o/
+fimc-is-hw-tpu.o/
+fimc-is-hw-vra.o/
+fimc-is-hw-dm.o/
+fimc-is-hw-mcscaler-v2.o/
+fimc-is-hw-djag.o/
+fimc-is-hw-uvsp-cac.o/
+fimc-is-hw-tdnr-v2.o/
+api/fimc-is-hw-api-common.o/
+api/fimc-is-hw-api-vra.o/
+api/fimc-is-hw-api-mcscaler-v410.o/
+
+/0              0           0     0     644     491984    `
+/22             0           0     0     644     405264    `
+/45             0           0     0     644     384752    `
+/63             0           0     0     644     394224    `
+/81             0           0     0     644     359728    `
+/99             0           0     0     644     411096    `
+/117           /0           0     0     644     60080     `
+/134            0           0     0     644     529776    `
+/160            0           0     0     644     331936    `
+/179            0           0     0     644     365416    `
+/202            0           0     0     644     362248    `
+/224            0           0     0     644     10912     `
+/253            0           0     0     644     12992     `
+/279            0           0     0     644     403384    `

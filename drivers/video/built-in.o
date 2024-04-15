@@ -1,0 +1,78 @@
+!<thin>
+//                                              1152      `
+backlight/lcd.o/
+backlight/backlight.o/
+fbdev/core/fb_cmdline.o/
+fbdev/core/fb_notify.o/
+fbdev/core/fbmem.o/
+fbdev/core/fbmon.o/
+fbdev/core/fbcmap.o/
+fbdev/core/fbsysfs.o/
+fbdev/core/modedb.o/
+fbdev/core/fbcvt.o/
+fbdev/core/cfbfillrect.o/
+fbdev/core/cfbcopyarea.o/
+fbdev/core/cfbimgblt.o/
+fbdev/exynos/dpu20/dpp_drv.o/
+fbdev/exynos/dpu20/dsim_drv.o/
+fbdev/exynos/dpu20/cal_9610/dsim_reg.o/
+fbdev/exynos/dpu20/cal_9610/dpp_reg.o/
+fbdev/exynos/dpu20/cal_9610/decon_reg.o/
+fbdev/exynos/dpu20/decon_core.o/
+fbdev/exynos/dpu20/decon_dsi.o/
+fbdev/exynos/dpu20/decon_wb.o/
+fbdev/exynos/dpu20/helper.o/
+fbdev/exynos/dpu20/win_update.o/
+fbdev/exynos/dpu20/cursor.o/
+fbdev/exynos/dpu20/fence.o/
+fbdev/exynos/dpu20/event_log.o/
+fbdev/exynos/dpu20/bts.o/
+fbdev/exynos/dpu20/panels/dsim_panel.o/
+fbdev/exynos/dpu20/decon_board.o/
+fbdev/exynos/dpu20/decon_notify.o/
+fbdev/exynos/dpu20/decon_abd.o/
+fbdev/exynos/dpu20/panels/dpui.o/
+fbdev/exynos/dpu20/panels/mdnie.o/
+fbdev/exynos/dpu20/panels/s6e3fa9_a51_lcd_ctrl.o/
+fbdev/exynos/dpu20/panels/ea8076_a51_lcd_ctrl.o/
+fbdev/exynos/dpu20/panels/timenval.o/
+fbdev/exynos/dpu20/panels/ea8076_a51_poc.o/
+fbdev/simplefb.o/
+/0              0           0     0     644     159136    `
+/17             0           0     0     644     182360    `
+/40             0           0     0     644     10272     `
+/65             0           0     0     644     121856    `
+/89             0           0     0     644     270000    `
+/109            0           0     0     644     143488    `
+/129            0           0     0     644     158992    `
+/150            0           0     0     644     161736    `
+/172            0           0     0     644     166776    `
+/193            0           0     0     644     18360     `
+/213            0           0     0     644     144352    `
+/239            0           0     0     644     141656    `
+/265            0           0     0     644     140864    `
+/289            0           0     0     644     234216    `
+/319            0           0     0     644     364656    `
+/350            0           0     0     644     267544    `
+/390            0           0     0     644     261400    `
+/429            0           0     0     644     322664    `
+/470            0           0     0     644     461632    `
+/503            0           0     0     644     276296    `
+/535            0           0     0     644     211584    `
+/566            0           0     0     644     227776    `
+/595            0           0     0     644     239176    `
+/628            0           0     0     644     215008    `
+/657            0           0     0     644     213544    `
+/685            0           0     0     644     274888    `
+/717            0           0     0     644     223456    `
+/743            0           0     0     644     180056    `
+/783            0           0     0     644     239800    `
+/817            0           0     0     644     181184    `
+/852            0           0     0     644     315552    `
+/884            0           0     0     644     154152    `
+/918            0           0     0     644     212904    `
+/953            0           0     0     644     454784    `
+/1003           0           0     0     644     455128    `
+/1052           0           0     0     644     9208      `
+/1090           0           0     0     644     248536    `
+/1134           0           0     0     644     161032    `

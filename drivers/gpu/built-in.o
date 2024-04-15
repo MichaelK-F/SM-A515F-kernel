@@ -1,0 +1,277 @@
+!<thin>
+//                                              5584      `
+arm/bv_r38p1/mali_kbase_cache_policy.o/
+arm/bv_r38p1/mali_kbase_ccswe.o/
+arm/bv_r38p1/mali_kbase_mem.o/
+arm/bv_r38p1/mali_kbase_mem_pool_group.o/
+arm/bv_r38p1/mali_kbase_native_mgm.o/
+arm/bv_r38p1/mali_kbase_ctx_sched.o/
+arm/bv_r38p1/mali_kbase_gpuprops.o/
+arm/bv_r38p1/mali_kbase_pm.o/
+arm/bv_r38p1/mali_kbase_config.o/
+arm/bv_r38p1/mali_kbase_kinstr_prfcnt.o/
+arm/bv_r38p1/mali_kbase_vinstr.o/
+arm/bv_r38p1/mali_kbase_hwcnt.o/
+arm/bv_r38p1/mali_kbase_hwcnt_gpu.o/
+arm/bv_r38p1/mali_kbase_hwcnt_gpu_narrow.o/
+arm/bv_r38p1/mali_kbase_hwcnt_types.o/
+arm/bv_r38p1/mali_kbase_hwcnt_virtualizer.o/
+arm/bv_r38p1/mali_kbase_hwcnt_watchdog_if_timer.o/
+arm/bv_r38p1/mali_kbase_softjobs.o/
+arm/bv_r38p1/mali_kbase_hw.o/
+arm/bv_r38p1/mali_kbase_debug.o/
+arm/bv_r38p1/mali_kbase_gpu_memory_debugfs.o/
+arm/bv_r38p1/mali_kbase_mem_linux.o/
+arm/bv_r38p1/mali_kbase_core_linux.o/
+arm/bv_r38p1/mali_kbase_mem_profile_debugfs.o/
+arm/bv_r38p1/mali_kbase_disjoint_events.o/
+arm/bv_r38p1/mali_kbase_debug_mem_view.o/
+arm/bv_r38p1/mali_kbase_debug_mem_zones.o/
+arm/bv_r38p1/mali_kbase_smc.o/
+arm/bv_r38p1/mali_kbase_mem_pool.o/
+arm/bv_r38p1/mali_kbase_mem_pool_debugfs.o/
+arm/bv_r38p1/mali_kbase_debugfs_helper.o/
+arm/bv_r38p1/mali_kbase_strings.o/
+arm/bv_r38p1/mali_kbase_as_fault_debugfs.o/
+arm/bv_r38p1/mali_kbase_regs_history_debugfs.o/
+arm/bv_r38p1/mali_kbase_dvfs_debugfs.o/
+arm/bv_r38p1/mali_power_gpu_frequency_trace.o/
+arm/bv_r38p1/mali_kbase_trace_gpu_mem.o/
+arm/bv_r38p1/mali_kbase_pbha.o/
+arm/bv_r38p1/mali_kbase_pbha_debugfs.o/
+arm/bv_r38p1/mali_kbase_fence_ops.o/
+arm/bv_r38p1/mali_kbase_sync_file.o/
+arm/bv_r38p1/mali_kbase_sync_common.o/
+arm/bv_r38p1/mali_kbase_jm.o/
+arm/bv_r38p1/mali_kbase_hwcnt_backend_jm.o/
+arm/bv_r38p1/mali_kbase_hwcnt_backend_jm_watchdog.o/
+arm/bv_r38p1/mali_kbase_dummy_job_wa.o/
+arm/bv_r38p1/mali_kbase_debug_job_fault.o/
+arm/bv_r38p1/mali_kbase_event.o/
+arm/bv_r38p1/mali_kbase_jd.o/
+arm/bv_r38p1/mali_kbase_jd_debugfs.o/
+arm/bv_r38p1/mali_kbase_js.o/
+arm/bv_r38p1/mali_kbase_js_ctx_attr.o/
+arm/bv_r38p1/mali_kbase_kinstr_jm.o/
+arm/bv_r38p1/mali_kbase_fence.o/
+arm/bv_r38p1/context/mali_kbase_context.o/
+arm/bv_r38p1/context/backend/mali_kbase_context_jm.o/
+arm/bv_r38p1/debug/mali_kbase_debug_ktrace.o/
+arm/bv_r38p1/debug/backend/mali_kbase_debug_ktrace_jm.o/
+arm/bv_r38p1/device/mali_kbase_device.o/
+arm/bv_r38p1/device/mali_kbase_device_hw.o/
+arm/bv_r38p1/device/backend/mali_kbase_device_jm.o/
+arm/bv_r38p1/device/backend/mali_kbase_device_hw_jm.o/
+arm/bv_r38p1/backend/gpu/mali_kbase_cache_policy_backend.o/
+arm/bv_r38p1/backend/gpu/mali_kbase_gpuprops_backend.o/
+arm/bv_r38p1/backend/gpu/mali_kbase_irq_linux.o/
+arm/bv_r38p1/backend/gpu/mali_kbase_js_backend.o/
+arm/bv_r38p1/backend/gpu/mali_kbase_pm_backend.o/
+arm/bv_r38p1/backend/gpu/mali_kbase_pm_driver.o/
+arm/bv_r38p1/backend/gpu/mali_kbase_pm_metrics.o/
+arm/bv_r38p1/backend/gpu/mali_kbase_pm_ca.o/
+arm/bv_r38p1/backend/gpu/mali_kbase_pm_always_on.o/
+arm/bv_r38p1/backend/gpu/mali_kbase_pm_coarse_demand.o/
+arm/bv_r38p1/backend/gpu/mali_kbase_pm_policy.o/
+arm/bv_r38p1/backend/gpu/mali_kbase_time.o/
+arm/bv_r38p1/backend/gpu/mali_kbase_l2_mmu_config.o/
+arm/bv_r38p1/backend/gpu/mali_kbase_clk_rate_trace_mgr.o/
+arm/bv_r38p1/backend/gpu/mali_kbase_instr_backend.o/
+arm/bv_r38p1/backend/gpu/mali_kbase_jm_as.o/
+arm/bv_r38p1/backend/gpu/mali_kbase_debug_job_fault_backend.o/
+arm/bv_r38p1/backend/gpu/mali_kbase_jm_hw.o/
+arm/bv_r38p1/backend/gpu/mali_kbase_jm_rb.o/
+arm/bv_r38p1/mmu/mali_kbase_mmu.o/
+arm/bv_r38p1/mmu/mali_kbase_mmu_hw_direct.o/
+arm/bv_r38p1/mmu/mali_kbase_mmu_mode_aarch64.o/
+arm/bv_r38p1/mmu/backend/mali_kbase_mmu_jm.o/
+arm/bv_r38p1/tl/mali_kbase_timeline.o/
+arm/bv_r38p1/tl/mali_kbase_timeline_io.o/
+arm/bv_r38p1/tl/mali_kbase_tlstream.o/
+arm/bv_r38p1/tl/mali_kbase_tracepoints.o/
+arm/bv_r38p1/tl/backend/mali_kbase_timeline_jm.o/
+arm/bv_r38p1/gpu/mali_kbase_gpu.o/
+arm/bv_r38p1/gpu/backend/mali_kbase_gpu_fault_jm.o/
+arm/bv_r38p1/thirdparty/mali_kbase_mmap.o/
+arm/exynos/mali_exynos_kbase_entrypoint.o/
+arm/exynos/frontend/gpex_platform.o/
+arm/exynos/backend/gpexbe_devicetree.o/
+arm/exynos/common/gpex_utils.o/
+arm/exynos/frontend/gpex_clock.o/
+arm/exynos/frontend/gpex_clock_sysfs.o/
+arm/exynos/backend/gpexbe_clock.o/
+arm/exynos/frontend/gpu_dvfs_governor.o/
+arm/exynos/frontend/gpex_dvfs.o/
+arm/exynos/frontend/gpex_dvfs_sysfs.o/
+arm/exynos/frontend/gpex_dvfs_external.o/
+arm/exynos/frontend/dummy/gpex_tsg_dummy.o/
+arm/exynos/frontend/dummy/gpex_cmar_sched_dummy.o/
+arm/exynos/backend/gpexbe_smc.o/
+arm/exynos/backend/dummy/gpexbe_secure_dummy.o/
+arm/exynos/frontend/gpex_qos.o/
+arm/exynos/backend/gpexbe_qos.o/
+arm/exynos/backend/gpexbe_qos_v1.o/
+arm/exynos/backend/gpexbe_bts_v1.o/
+arm/exynos/backend/gpexbe_debug_v2_9611.o/
+arm/exynos/backend/gpexbe_dmabuf_v2.o/
+arm/exynos/backend/dummy/gpexbe_llc_coherency_dummy.o/
+arm/exynos/frontend/gpex_thermal.o/
+arm/exynos/frontend/dummy/gpex_gts_dummy.o/
+arm/exynos/backend/gpexbe_notifier.o/
+arm/exynos/backend/gpexbe_notifier_v1.o/
+arm/exynos/backend/gpexbe_pm.o/
+arm/exynos/frontend/gpex_pm.o/
+arm/exynos/frontend/dummy/gpex_ifpo_dummy.o/
+arm/exynos/backend/gpexbe_utilization.o/
+arm/exynos/backend/gpexbe_mem_usage.o/
+arm/exynos/tests/runtime_test_runner_dummy.o/
+arm/exynos/workarounds/dummy/gpexwa_wakeup_clock_dummy.o/
+arm/exynos/frontend/gpex_clboost.o/
+arm/exynos/frontend/gpex_cmar_boost.o/
+arm/exynos/common/gpex_debug.o/
+exynos/g2d/g2d_drv.o/
+exynos/g2d/g2d_task.o/
+exynos/g2d/g2d_regs.o/
+exynos/g2d/g2d_uapi_process.o/
+exynos/g2d/g2d_command.o/
+exynos/g2d/g2d_fence.o/
+exynos/g2d/g2d_debug.o/
+exynos/g2d/g2d_perf.o/
+
+/0              0           0     0     644     178336    `
+/40             0           0     0     644     9224      `
+/73             0           0     0     644     387768    `
+/104            0           0     0     644     177992    `
+/146            0           0     0     644     127112    `
+/184            0           0     0     644     202472    `
+/221            0           0     0     644     202328    `
+/257           /0           0     0     644     198736    `
+/287            0           0     0     644     177456    `
+/321            0           0     0     644     218888    `
+/362            0           0     0     644     144048    `
+/396            0           0     0     644     48800     `
+/429            0           0     0     644     68592     `
+/466            0           0     0     644     31184     `
+/510            0           0     0     644     82576     `
+/549            0           0     0     644     41968     `
+/594            0           0     0     644     18872     `
+/645            0           0     0     644     284400    `
+/681           /0           0     0     644     197432    `
+/711            0           0     0     644     5936      `
+/744            0           0     0     644     178504    `
+/790            0           0     0     644     313536    `
+/827            0           0     0     644     594992    `
+/865            0           0     0     644     180680    `
+/912            0           0     0     644     177784    `
+/955            0           0     0     644     196560    `
+/997            0           0     0     644     178120    `
+/1040           0           0     0     644     5640      `
+/1071           0           0     0     644     221128    `
+/1107           0           0     0     644     187904    `
+/1151           0           0     0     644     99840     `
+/1193           0           0     0     644     3112      `
+/1228           0           0     0     644     173424    `
+/1272           0           0     0     644     186416    `
+/1320           0           0     0     644     177552    `
+/1360           0           0     0     644     158888    `
+/1407           0           0     0     644     182984    `
+/1448           0           0     0     644     182008    `
+/1480           0           0     0     644     183920    `
+/1520           0           0     0     644     8976      `
+/1557           0           0     0     644     232192    `
+/1594           0           0     0     644     211072    `
+/1633          /0           0     0     644     188120    `
+/1663           0           0     0     644     210256    `
+/1707           0           0     0     644     41824     `
+/1760           0           0     0     644     198624    `
+/1800           0           0     0     644     207288    `
+/1843           0           0     0     644     198488    `
+/1876          /0           0     0     644     278232    `
+/1906           0           0     0     644     218592    `
+/1944          /0           0     0     644     335936    `
+/1974           0           0     0     644     191640    `
+/2013           0           0     0     644     214760    `
+/2050           0           0     0     644     182712    `
+/2083           0           0     0     644     204944    `
+/2126           0           0     0     644     199104    `
+/2180           0           0     0     644     206896    `
+/2226           0           0     0     644     189600    `
+/2283           0           0     0     644     217344    `
+/2324           0           0     0     644     195728    `
+/2368           0           0     0     644     195112    `
+/2420           0           0     0     644     193152    `
+/2475           0           0     0     644     175536    `
+/2535           0           0     0     644     185320    `
+/2591           0           0     0     644     183600    `
+/2640           0           0     0     644     195824    `
+/2690           0           0     0     644     223768    `
+/2740           0           0     0     644     287120    `
+/2789           0           0     0     644     185656    `
+/2839           0           0     0     644     175488    `
+/2884           0           0     0     644     176200    `
+/2936           0           0     0     644     176240    `
+/2992           0           0     0     644     197768    `
+/3041           0           0     0     644     183168    `
+/3085           0           0     0     644     175728    `
+/3138           0           0     0     644     185984    `
+/3196           0           0     0     644     204744    `
+/3249           0           0     0     644     188984    `
+/3294           0           0     0     644     177472    `
+/3357           0           0     0     644     270232    `
+/3402           0           0     0     644     262376    `
+/3447           0           0     0     644     270032    `
+/3482           0           0     0     644     194736    `
+/3527           0           0     0     644     180776    `
+/3575           0           0     0     644     198112    `
+/3621           0           0     0     644     191192    `
+/3660           0           0     0     644     140208    `
+/3702           0           0     0     644     15648     `
+/3741           0           0     0     644     175576    `
+/3783           0           0     0     644     177568    `
+/3833           0           0     0     644     4176      `
+/3868           0           0     0     644     7440      `
+/3920           0           0     0     644     184608    `
+/3963           0           0     0     644     214144    `
+/4006          /0           0     0     644     131168    `
+/4043           0           0     0     644     127232    `
+/4083           0           0     0     644     193136    `
+/4115           0           0     0     644     213232    `
+/4149           0           0     0     644     214688    `
+/4189           0           0     0     644     14248     `
+/4224           0           0     0     644     213488    `
+/4265           0           0     0     644     206512    `
+/4298           0           0     0     644     215664    `
+/4337           0           0     0     644     191312    `
+/4379           0           0     0     644     142528    `
+/4423           0           0     0     644     4240      `
+/4474           0           0     0     644     14208     `
+/4507           0           0     0     644     4448      `
+/4555           0           0     0     644     143352    `
+/4587           0           0     0     644     3352      `
+/4620          /0           0     0     644     12896     `
+/4656          /0           0     0     644     4880      `
+/4692           0           0     0     644     10672     `
+/4735           0           0     0     644     3960      `
+/4774           0           0     0     644     106176    `
+/4829           0           0     0     644     141440    `
+/4865           0           0     0     644     11808     `
+/4909           0           0     0     644     12696     `
+/4947           0           0     0     644     5032      `
+/4988           0           0     0     644     124072    `
+/5020           0           0     0     644     176704    `
+/5051           0           0     0     644     5192      `
+/5096           0           0     0     644     186968    `
+/5137           0           0     0     644     183064    `
+/5176           0           0     0     644     3432      `
+/5222           0           0     0     644     3608      `
+/5280           0           0     0     644     132312    `
+/5316           0           0     0     644     91920     `
+/5355           0           0     0     644     132704    `
+/5387           0           0     0     644     337912    `
+/5409           0           0     0     644     179264    `
+/5432           0           0     0     644     130912    `
+/5455           0           0     0     644     179616    `
+/5486           0           0     0     644     158464    `
+/5512           0           0     0     644     144672    `
+/5536           0           0     0     644     157464    `
+/5560           0           0     0     644     137304    `

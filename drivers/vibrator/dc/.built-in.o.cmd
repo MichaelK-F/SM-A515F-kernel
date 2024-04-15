@@ -1,0 +1,1 @@
+cmd_drivers/vibrator/dc/built-in.o :=   rm -f drivers/vibrator/dc/built-in.o; ./toolchain/gcc/linux-x86/aarch64/aarch64-linux-android-4.9/bin/aarch64-linux-android-ar rcSTPD drivers/vibrator/dc/built-in.o drivers/vibrator/dc/dc_vibrator.o 

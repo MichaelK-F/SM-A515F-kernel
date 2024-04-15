@@ -1,0 +1,1 @@
+cmd_drivers/misc/mcu_ipc/built-in.o :=   rm -f drivers/misc/mcu_ipc/built-in.o; ./toolchain/gcc/linux-x86/aarch64/aarch64-linux-android-4.9/bin/aarch64-linux-android-ar rcSTPD drivers/misc/mcu_ipc/built-in.o drivers/misc/mcu_ipc/mcu_ipc.o drivers/misc/mcu_ipc/shm_ipc.o 

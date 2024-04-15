@@ -1,0 +1,74 @@
+!<thin>
+//                                              896       `
+core/fb_cmdline.o/
+core/fb_notify.o/
+core/fbmem.o/
+core/fbmon.o/
+core/fbcmap.o/
+core/fbsysfs.o/
+core/modedb.o/
+core/fbcvt.o/
+core/cfbfillrect.o/
+core/cfbcopyarea.o/
+core/cfbimgblt.o/
+exynos/dpu20/dpp_drv.o/
+exynos/dpu20/dsim_drv.o/
+exynos/dpu20/cal_9610/dsim_reg.o/
+exynos/dpu20/cal_9610/dpp_reg.o/
+exynos/dpu20/cal_9610/decon_reg.o/
+exynos/dpu20/decon_core.o/
+exynos/dpu20/decon_dsi.o/
+exynos/dpu20/decon_wb.o/
+exynos/dpu20/helper.o/
+exynos/dpu20/win_update.o/
+exynos/dpu20/cursor.o/
+exynos/dpu20/fence.o/
+exynos/dpu20/event_log.o/
+exynos/dpu20/bts.o/
+exynos/dpu20/panels/dsim_panel.o/
+exynos/dpu20/decon_board.o/
+exynos/dpu20/decon_notify.o/
+exynos/dpu20/decon_abd.o/
+exynos/dpu20/panels/dpui.o/
+exynos/dpu20/panels/mdnie.o/
+exynos/dpu20/panels/s6e3fa9_a51_lcd_ctrl.o/
+exynos/dpu20/panels/ea8076_a51_lcd_ctrl.o/
+exynos/dpu20/panels/timenval.o/
+exynos/dpu20/panels/ea8076_a51_poc.o/
+simplefb.o/
+/0              0           0     0     644     10272     `
+/19             0           0     0     644     121856    `
+/37             0           0     0     644     270000    `
+/51             0           0     0     644     143488    `
+/65             0           0     0     644     158992    `
+/80             0           0     0     644     161736    `
+/96             0           0     0     644     166776    `
+/111            0           0     0     644     18360     `
+/125            0           0     0     644     144352    `
+/145            0           0     0     644     141656    `
+/165            0           0     0     644     140864    `
+/183            0           0     0     644     234216    `
+/207            0           0     0     644     364656    `
+/232            0           0     0     644     267544    `
+/266            0           0     0     644     261400    `
+/299            0           0     0     644     322664    `
+/334            0           0     0     644     461632    `
+/361            0           0     0     644     276296    `
+/387            0           0     0     644     211584    `
+/412            0           0     0     644     227776    `
+/435            0           0     0     644     239176    `
+/462            0           0     0     644     215008    `
+/485            0           0     0     644     213544    `
+/507            0           0     0     644     274888    `
+/533            0           0     0     644     223456    `
+/553            0           0     0     644     180056    `
+/587            0           0     0     644     239800    `
+/615            0           0     0     644     181184    `
+/644            0           0     0     644     315552    `
+/670            0           0     0     644     154152    `
+/698            0           0     0     644     212904    `
+/727            0           0     0     644     454784    `
+/771            0           0     0     644     455128    `
+/814            0           0     0     644     9208      `
+/846            0           0     0     644     248536    `
+/884            0           0     0     644     161032    `

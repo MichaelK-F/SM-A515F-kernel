@@ -1,0 +1,45 @@
+!<thin>
+//                                              484       `
+setup-fimc-is.o/
+setup-fimc-is-sensor.o/
+fimc-is-hw-pwr.o/
+fimc-is-hw-chain.o/
+fimc-is-hw-dvfs.o/
+fimc-is-subdev-3aa.o/
+fimc-is-subdev-3ac.o/
+fimc-is-subdev-3ap.o/
+fimc-is-subdev-isp.o/
+fimc-is-subdev-ixc.o/
+fimc-is-subdev-ixp.o/
+fimc-is-subdev-mexc.o/
+fimc-is-subdev-mcs.o/
+fimc-is-subdev-mcsp.o/
+fimc-is-subdev-vra.o/
+fimc-is-subdev-paf.o/
+fimc-is-subdev-sensor.o/
+fimc-is-subdev-sensor_vc0.o/
+fimc-is-subdev-sensor_vc1.o/
+fimc-is-subdev-sensor_vc2.o/
+fimc-is-subdev-sensor_vc3.o/
+
+/0             /0           0     0     644     142248    `
+/17             0           0     0     644     138992    `
+/41             0           0     0     644     10160     `
+/59             0           0     0     644     473480    `
+/79             0           0     0     644     354136    `
+/98             0           0     0     644     325520    `
+/120            0           0     0     644     314664    `
+/142            0           0     0     644     316896    `
+/164            0           0     0     644     321440    `
+/186            0           0     0     644     296952    `
+/208            0           0     0     644     296496    `
+/230            0           0     0     644     287464    `
+/253            0           0     0     644     303824    `
+/275            0           0     0     644     345152    `
+/298            0           0     0     644     299800    `
+/320            0           0     0     644     320672    `
+/342            0           0     0     644     299640    `
+/367            0           0     0     644     302232    `
+/396            0           0     0     644     302232    `
+/425            0           0     0     644     302232    `
+/454            0           0     0     644     302232    `

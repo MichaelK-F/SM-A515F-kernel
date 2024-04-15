@@ -1,0 +1,1 @@
+cmd_drivers/usb/gadget/udc/built-in.o :=   rm -f drivers/usb/gadget/udc/built-in.o; ./toolchain/gcc/linux-x86/aarch64/aarch64-linux-android-4.9/bin/aarch64-linux-android-ar rcSTPD drivers/usb/gadget/udc/built-in.o drivers/usb/gadget/udc/udc-core.o 

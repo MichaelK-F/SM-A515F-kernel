@@ -1,0 +1,31 @@
+!<thin>
+//                                              302       `
+modem_main.o/
+modem_variation.o/
+modem_io_device.o/
+modem_utils.o/
+modem_dump.o/
+link_device_shmem.o/
+link_device_memory_snapshot.o/
+link_device_memory_flow_control.o/
+link_device_memory_debug.o/
+link_device_memory_sbd.o/
+modem_notifier.o/
+modem_ctrl_ss310ap.o/
+modem_argos_notifier.o/
+uart_switch.o/
+
+/0              0           0     0     644     329880    `
+/14             0           0     0     644     222568    `
+/33             0           0     0     644     398472    `
+/52             0           0     0     644     379480    `
+/67             0           0     0     644     238768    `
+/81             0           0     0     644     480312    `
+/102            0           0     0     644     237384    `
+/133            0           0     0     644     248792    `
+/168            0           0     0     644     227680    `
+/196            0           0     0     644     252680    `
+/222            0           0     0     644     6272      `
+/240            0           0     0     644     287432    `
+/262            0           0     0     644     226064    `
+/286            0           0     0     644     211576    `

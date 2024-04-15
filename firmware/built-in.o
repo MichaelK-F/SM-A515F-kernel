@@ -1,0 +1,28 @@
+!<thin>
+//                                              416       `
+exynos9610_acpm_fvp.fw.gen.o/
+exynos9610_acpm_tmu.fw.gen.o/
+tsp_melfas/mss100_a51.fw.gen.o/
+tsp_melfas/mss100_a51_old.fw.gen.o/
+tsp_melfas/mss100_m31.fw.gen.o/
+tsp_melfas/mss100_m21.fw.gen.o/
+tsp_melfas/mss100_m31s.fw.gen.o/
+abov/a96t326_voguelte.fw.gen.o/
+abov/a96t356_a51.fw.gen.o/
+abov/a96t356_a51_sub.fw.gen.o/
+sensorhub/shub_bl.fw.gen.o/
+sensorhub/a51_bring_up.fw.gen.o/
+sensorhub/shub_exynos9611_a51.fw.gen.o/
+/0              0           0     0     644     6464      `
+/30             0           0     0     644     6464      `
+/60             0           0     0     644     131400    `
+/92             0           0     0     644     131408    `
+/128            0           0     0     644     131400    `
+/160            0           0     0     644     131400    `
+/192            0           0     0     644     131408    `
+/225            0           0     0     644     15720     `
+/257            0           0     0     644     15704     `
+/284            0           0     0     644     15712     `
+/315            0           0     0     644     2344      `
+/343            0           0     0     644     154016    `
+/376            0           0     0     644     162528    `

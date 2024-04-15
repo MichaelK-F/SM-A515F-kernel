@@ -1,0 +1,1 @@
+cmd_drivers/misc/samsung/scsc/mx_client_test.o :=  rm -f drivers/misc/samsung/scsc/mx_client_test.o; ./toolchain/gcc/linux-x86/aarch64/aarch64-linux-android-4.9/bin/aarch64-linux-android-ar rcSTPD drivers/misc/samsung/scsc/mx_client_test.o drivers/misc/samsung/scsc/client_test.o 

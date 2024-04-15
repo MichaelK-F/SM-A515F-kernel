@@ -1,0 +1,1 @@
+cmd_drivers/vision/vipx/platform/built-in.o :=   rm -f drivers/vision/vipx/platform/built-in.o; ./toolchain/gcc/linux-x86/aarch64/aarch64-linux-android-4.9/bin/aarch64-linux-android-ar rcSTPD drivers/vision/vipx/platform/built-in.o drivers/vision/vipx/platform/exynos9610/built-in.o 

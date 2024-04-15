@@ -1,0 +1,55 @@
+!<thin>
+//                                              506       `
+ssp_platform.o/
+ssp_data.o/
+ssp_comm.o/
+ssp_debug.o/
+ssp_dev.o/
+ssp_sysfs.o/
+sensors_core.o/
+ssp_iio.o/
+ssp_scontext.o/
+ssp_sensor_dump.o/
+ssp_dump.o/
+ssp_injection.o/
+ssp_firmware.o/
+factory/ssp_sensor.o/
+factory/Accelometer/accel_lsm6dsl.o/
+factory/accelometer_sensor.o/
+factory/Gyroscope/gyro_lsm6dsl.o/
+factory/gyroscope_sensor.o/
+factory/Magnetic/magnetic_ak09918c.o/
+factory/magnetic_sensor.o/
+factory/Light/light_tcs3701.o/
+factory/light_sensor.o/
+a96t3x6.o/
+a96t3x6_sub.o/
+sx9360.o/
+sx9360_sub.o/
+
+/0              0           0     0     644     155304    `
+/16             0           0     0     644     193016    `
+/28             0           0     0     644     157128    `
+/40             0           0     0     644     155896    `
+/53             0           0     0     644     171248    `
+/64             0           0     0     644     192632    `
+/77             0           0     0     644     154312    `
+/93             0           0     0     644     149264    `
+/104            0           0     0     644     157136    `
+/120            0           0     0     644     138264    `
+/139            0           0     0     644     139464    `
+/151           /0           0     0     644     147528    `
+/168            0           0     0     644     144784    `
+/184            0           0     0     644     143544    `
+/206           /0           0     0     644     154368    `
+/243            0           0     0     644     152008    `
+/273            0           0     0     644     151088    `
+/307            0           0     0     644     151056    `
+/335            0           0     0     644     160168    `
+/373            0           0     0     644     154056    `
+/400           /0           0     0     644     138440    `
+/431            0           0     0     644     149096    `
+/455            0           0     0     644     313360    `
+/466            0           0     0     644     295104    `
+/481            0           0     0     644     282568    `
+/491            0           0     0     644     263304    `

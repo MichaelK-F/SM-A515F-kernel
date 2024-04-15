@@ -1,0 +1,1 @@
+cmd_drivers/mfd/built-in.o :=   rm -f drivers/mfd/built-in.o; ./toolchain/gcc/linux-x86/aarch64/aarch64-linux-android-4.9/bin/aarch64-linux-android-ar rcSTPD drivers/mfd/built-in.o drivers/mfd/mfd-core.o drivers/mfd/sec-core.o drivers/mfd/sec-irq.o drivers/mfd/s2mpu09-core.o drivers/mfd/s2mpu09-irq.o drivers/mfd/syscon.o drivers/mfd/sm5713_core.o drivers/mfd/sm5713-irq.o 

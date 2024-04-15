@@ -1,0 +1,12 @@
+!<thin>
+//                                              158       `
+fimc-is-device-module-base.o/
+fimc-is-device-module-imx582.o/
+fimc-is-device-module-imx616.o/
+fimc-is-device-module-gc5035.o/
+fimc-is-device-module-hi1336.o/
+/0              0           0     0     644     474864    `
+/30             0           0     0     644     407464    `
+/62             0           0     0     644     405992    `
+/94             0           0     0     644     407352    `
+/126            0           0     0     644     404544    `

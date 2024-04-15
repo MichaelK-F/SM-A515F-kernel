@@ -1,0 +1,1 @@
+cmd_drivers/media/common/built-in.o :=   rm -f drivers/media/common/built-in.o; ./toolchain/gcc/linux-x86/aarch64/aarch64-linux-android-4.9/bin/aarch64-linux-android-ar rcSTPD drivers/media/common/built-in.o drivers/media/common/b2c2/built-in.o drivers/media/common/saa7146/built-in.o drivers/media/common/siano/built-in.o drivers/media/common/v4l2-tpg/built-in.o 

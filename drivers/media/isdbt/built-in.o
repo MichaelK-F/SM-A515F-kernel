@@ -1,0 +1,29 @@
+!<thin>
+//                                              364       `
+fc8350_spi/src/bbm.o/
+fc8350_spi/src/fc8350.o/
+fc8350_spi/src/fc8350_bb.o/
+fc8350_spi/src/fc8350_i2c.o/
+fc8350_spi/src/fc8350_isr.o/
+fc8350_spi/src/fc8350_spi.o/
+fc8350_spi/src/fc8350_tun.o/
+fc8350_spi/src/fc8350_tun_table.o/
+fc8350_spi/src/fci_hal.o/
+fc8350_spi/src/fci_hpi.o/
+fc8350_spi/src/fci_oal.o/
+fc8350_spi/src/fci_ringbuffer.o/
+fc8350_spi/src/fci_tun.o/
+
+/0              0           0     0     644     21088     `
+/22             0           0     0     644     253248    `
+/47             0           0     0     644     103024    `
+/75             0           0     0     644     139896    `
+/104            0           0     0     644     6912      `
+/133            0           0     0     644     149208    `
+/162            0           0     0     644     55568     `
+/191            0           0     0     644     13656     `
+/226            0           0     0     644     14328     `
+/252            0           0     0     644     5712      `
+/278            0           0     0     644     5936      `
+/304            0           0     0     644     58072     `
+/337            0           0     0     644     17112     `

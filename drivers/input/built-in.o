@@ -1,0 +1,75 @@
+!<thin>
+//                                              762       `
+input.o/
+input-compat.o/
+input-mt.o/
+ff-core.o/
+sec_cmd.o/
+ff-memless.o/
+matrix-keymap.o/
+input-leds.o/
+evdev.o/
+keyboard/atkbd.o/
+keyboard/gpio_keys.o/
+keyboard/samsung-keypad.o/
+joystick/xpad.o/
+tablet/acecad.o/
+tablet/aiptek.o/
+tablet/gtco.o/
+tablet/hanwang.o/
+tablet/kbtab.o/
+touchscreen/of_touchscreen.o/
+touchscreen/melfas/mss100/melfas_mss100.o/
+touchscreen/melfas/mss100/melfas_mss100_mod.o/
+touchscreen/melfas/mss100/melfas_mss100_test.o/
+touchscreen/melfas/mss100/melfas_mss100_cmd.o/
+touchscreen/melfas/mss100/melfas_mss100_fw_update.o/
+misc/gpio_event.o/
+misc/gpio_matrix.o/
+misc/gpio_input.o/
+misc/gpio_output.o/
+misc/gpio_axis.o/
+misc/uinput.o/
+misc/hall/hall.o/
+misc/hall/certify_hall.o/
+keyreset.o/
+keycombo.o/
+sec_tsp_dumpkey.o/
+sec_tsp_log.o/
+
+/0              0           0     0     644     631064    `
+/9              0           0     0     644     133776    `
+/25             0           0     0     644     152464    `
+/37             0           0     0     644     143784    `
+/48             0           0     0     644     168096    `
+/59             0           0     0     644     150728    `
+/73            /0           0     0     644     137264    `
+/90             0           0     0     644     140544    `
+/104            0           0     0     644     233728    `
+/113            0           0     0     644     205272    `
+/131            0           0     0     644     194560    `
+/153            0           0     0     644     165496    `
+/180            0           0     0     644     232200    `
+/197            0           0     0     644     160816    `
+/214            0           0     0     644     218224    `
+/231            0           0     0     644     169208    `
+/246            0           0     0     644     167416    `
+/264            0           0     0     644     159168    `
+/280            0           0     0     644     140256    `
+/310           /0           0     0     644     407888    `
+/353            0           0     0     644     278168    `
+/400            0           0     0     644     306576    `
+/448            0           0     0     644     454480    `
+/495            0           0     0     644     231536    `
+/548            0           0     0     644     139808    `
+/567            0           0     0     644     154880    `
+/587            0           0     0     644     150544    `
+/606            0           0     0     644     132120    `
+/626            0           0     0     644     139320    `
+/644            0           0     0     644     192552    `
+/659            0           0     0     644     160616    `
+/677            0           0     0     644     159752    `
+/703            0           0     0     644     168224    `
+/715            0           0     0     644     146928    `
+/727            0           0     0     644     12536     `
+/746            0           0     0     644     143856    `

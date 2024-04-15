@@ -1,0 +1,1 @@
+cmd_drivers/video/fbdev/omap2/omapfb/displays/built-in.o :=  rm -f drivers/video/fbdev/omap2/omapfb/displays/built-in.o; ./toolchain/gcc/linux-x86/aarch64/aarch64-linux-android-4.9/bin/aarch64-linux-android-ar rcSTPD drivers/video/fbdev/omap2/omapfb/displays/built-in.o

@@ -1,0 +1,17 @@
+!<thin>
+//                                              128       `
+host_notify_class.o/
+external_notify.o/
+usblog_proc_notify.o/
+usb_notify.o/
+usb_notify_sysfs.o/
+dock_notify.o/
+usb_notifier.o/
+
+/0              0           0     0     644     140768    `
+/21             0           0     0     644     108744    `
+/40             0           0     0     644     222256    `
+/62             0           0     0     644     272528    `
+/76             0           0     0     644     174048    `
+/96             0           0     0     644     159128    `
+/111            0           0     0     644     199072    `

@@ -1,0 +1,1 @@
+cmd_drivers/misc/samsung/scsc/scsc_mx250_fm.o :=  rm -f drivers/misc/samsung/scsc/scsc_mx250_fm.o; ./toolchain/gcc/linux-x86/aarch64/aarch64-linux-android-4.9/bin/aarch64-linux-android-ar rcSTPD drivers/misc/samsung/scsc/scsc_mx250_fm.o drivers/misc/samsung/scsc/mx250_fm.o 

@@ -1,0 +1,1 @@
+cmd_drivers/staging/typec/built-in.o :=   rm -f drivers/staging/typec/built-in.o; ./toolchain/gcc/linux-x86/aarch64/aarch64-linux-android-4.9/bin/aarch64-linux-android-ar rcSTPD drivers/staging/typec/built-in.o drivers/staging/typec/fusb302/built-in.o 

@@ -1,0 +1,1 @@
+cmd_drivers/video/fbdev/built-in.o :=   rm -f drivers/video/fbdev/built-in.o; ./toolchain/gcc/linux-x86/aarch64/aarch64-linux-android-4.9/bin/aarch64-linux-android-ar rcSTPD drivers/video/fbdev/built-in.o drivers/video/fbdev/core/built-in.o drivers/video/fbdev/exynos/built-in.o drivers/video/fbdev/omap2/built-in.o drivers/video/fbdev/simplefb.o 

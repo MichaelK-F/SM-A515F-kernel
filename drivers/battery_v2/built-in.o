@@ -1,0 +1,22 @@
+!<thin>
+//                                              168       `
+sec_battery.o/
+sec_battery_sysfs.o/
+sec_battery_dt.o/
+sec_adc.o/
+sec_cisd.o/
+battery_notifier.o/
+sec_pd.o/
+sm5713_fuelgauge.o/
+sm5713_charger.o/
+sm5713_charger_oper.o/
+/0              0           0     0     644     626240    `
+/15             0           0     0     644     347576    `
+/36             0           0     0     644     301992    `
+/54             0           0     0     644     184376    `
+/65             0           0     0     644     228624    `
+/77             0           0     0     644     119928    `
+/97             0           0     0     644     9760      `
+/107            0           0     0     644     387464    `
+/127            0           0     0     644     241992    `
+/145            0           0     0     644     175664    `

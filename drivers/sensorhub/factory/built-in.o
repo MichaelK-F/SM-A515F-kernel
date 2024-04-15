@@ -1,0 +1,21 @@
+!<thin>
+//                                              200       `
+ssp_sensor.o/
+Accelometer/accel_lsm6dsl.o/
+accelometer_sensor.o/
+Gyroscope/gyro_lsm6dsl.o/
+gyroscope_sensor.o/
+Magnetic/magnetic_ak09918c.o/
+magnetic_sensor.o/
+Light/light_tcs3701.o/
+light_sensor.o/
+
+/0              0           0     0     644     143544    `
+/14            /0           0     0     644     154368    `
+/43             0           0     0     644     152008    `
+/65             0           0     0     644     151088    `
+/91             0           0     0     644     151056    `
+/111            0           0     0     644     160168    `
+/141            0           0     0     644     154056    `
+/160           /0           0     0     644     138440    `
+/183            0           0     0     644     149096    `

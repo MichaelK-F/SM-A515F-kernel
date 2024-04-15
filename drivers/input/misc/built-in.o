@@ -1,0 +1,19 @@
+!<thin>
+//                                              116       `
+gpio_event.o/
+gpio_matrix.o/
+gpio_input.o/
+gpio_output.o/
+gpio_axis.o/
+uinput.o/
+hall/hall.o/
+hall/certify_hall.o/
+
+/0              0           0     0     644     139808    `
+/14             0           0     0     644     154880    `
+/29             0           0     0     644     150544    `
+/43             0           0     0     644     132120    `
+/58             0           0     0     644     139320    `
+/71             0           0     0     644     192552    `
+/81             0           0     0     644     160616    `
+/94             0           0     0     644     159752    `

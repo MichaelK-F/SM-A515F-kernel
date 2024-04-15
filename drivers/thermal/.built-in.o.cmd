@@ -1,0 +1,1 @@
+cmd_drivers/thermal/built-in.o :=   rm -f drivers/thermal/built-in.o; ./toolchain/gcc/linux-x86/aarch64/aarch64-linux-android-4.9/bin/aarch64-linux-android-ar rcSTPD drivers/thermal/built-in.o drivers/thermal/thermal_sys.o drivers/thermal/broadcom/built-in.o drivers/thermal/samsung/built-in.o drivers/thermal/gpu_cooling.o drivers/thermal/isp_cooling.o 

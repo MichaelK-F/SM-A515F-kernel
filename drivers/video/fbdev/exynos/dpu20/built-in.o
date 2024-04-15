@@ -1,0 +1,51 @@
+!<thin>
+//                                              390       `
+dpp_drv.o/
+dsim_drv.o/
+cal_9610/dsim_reg.o/
+cal_9610/dpp_reg.o/
+cal_9610/decon_reg.o/
+decon_core.o/
+decon_dsi.o/
+decon_wb.o/
+helper.o/
+win_update.o/
+cursor.o/
+fence.o/
+event_log.o/
+bts.o/
+panels/dsim_panel.o/
+decon_board.o/
+decon_notify.o/
+decon_abd.o/
+panels/dpui.o/
+panels/mdnie.o/
+panels/s6e3fa9_a51_lcd_ctrl.o/
+panels/ea8076_a51_lcd_ctrl.o/
+panels/timenval.o/
+panels/ea8076_a51_poc.o/
+
+/0              0           0     0     644     234216    `
+/11             0           0     0     644     364656    `
+/23             0           0     0     644     267544    `
+/44             0           0     0     644     261400    `
+/64             0           0     0     644     322664    `
+/86             0           0     0     644     461632    `
+/100            0           0     0     644     276296    `
+/113            0           0     0     644     211584    `
+/125            0           0     0     644     227776    `
+/135            0           0     0     644     239176    `
+/149            0           0     0     644     215008    `
+/159            0           0     0     644     213544    `
+/168            0           0     0     644     274888    `
+/181            0           0     0     644     223456    `
+/188            0           0     0     644     180056    `
+/209            0           0     0     644     239800    `
+/224            0           0     0     644     181184    `
+/240            0           0     0     644     315552    `
+/253            0           0     0     644     154152    `
+/268            0           0     0     644     212904    `
+/284            0           0     0     644     454784    `
+/315            0           0     0     644     455128    `
+/345            0           0     0     644     9208      `
+/364            0           0     0     644     248536    `

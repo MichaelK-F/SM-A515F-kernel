@@ -477,6 +477,7 @@ static struct cftype files[] = {
  */
 static int freezer_can_attach(struct cgroup_taskset *tset)
 {
+	
 	const struct cred *cred = current_cred(), *tcred;
 	struct task_struct *task;
 	struct cgroup_subsys_state *css;

@@ -1,0 +1,1 @@
+cmd_drivers/usb/host/built-in.o :=   rm -f drivers/usb/host/built-in.o; ./toolchain/gcc/linux-x86/aarch64/aarch64-linux-android-4.9/bin/aarch64-linux-android-ar rcSTPD drivers/usb/host/built-in.o drivers/usb/host/xhci-hcd.o drivers/usb/host/xhci-plat-hcd.o 

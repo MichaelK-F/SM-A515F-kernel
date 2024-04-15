@@ -1,0 +1,1 @@
+cmd_drivers/md/dm-verity.o :=  rm -f drivers/md/dm-verity.o; ./toolchain/gcc/linux-x86/aarch64/aarch64-linux-android-4.9/bin/aarch64-linux-android-ar rcSTPD drivers/md/dm-verity.o drivers/md/dm-verity-fec.o drivers/md/dm-verity-target.o drivers/md/dm-verity-debug.o drivers/md/alta_bigdata.o 

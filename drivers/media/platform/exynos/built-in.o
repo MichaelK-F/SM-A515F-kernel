@@ -1,0 +1,64 @@
+!<thin>
+//                                              626       `
+mfc/mfc.o/
+mfc/mfc_isr.o/
+mfc/mfc_dec_v4l2.o/
+mfc/mfc_dec_vb2.o/
+mfc/mfc_enc_v4l2.o/
+mfc/mfc_enc_vb2.o/
+mfc/mfc_hwlock.o/
+mfc/mfc_nal_q.o/
+mfc/mfc_watchdog.o/
+mfc/mfc_run.o/
+mfc/mfc_sync.o/
+mfc/mfc_pm.o/
+mfc/mfc_cmd.o/
+mfc/mfc_hw_reg_api.o/
+mfc/mfc_reg_api.o/
+mfc/mfc_perf_measure.o/
+mfc/mfc_dec_ctrl.o/
+mfc/mfc_enc_ctrl.o/
+mfc/mfc_enc_param.o/
+mfc/mfc_queue.o/
+mfc/mfc_buf.o/
+mfc/mfc_utils.o/
+mfc/mfc_qos.o/
+mfc/mfc_mem.o/
+mfc/mfc_debugfs.o/
+mfc/mfc_otf.o/
+mfc/mfc_mmcache.o/
+camera-pp/camerapp-sfr-api-common.o/
+camera-pp/gdc/camerapp-gdc-core.o/
+camera-pp/gdc/camerapp-gdc-grid.o/
+camera-pp/gdc/camerapp-hw-api-gdc-v200.o/
+/0              0           0     0     644     458800    `
+/11             0           0     0     644     350024    `
+/26             0           0     0     644     306152    `
+/46             0           0     0     644     270288    `
+/65             0           0     0     644     342112    `
+/85             0           0     0     644     264208    `
+/104            0           0     0     644     283752    `
+/122            0           0     0     644     359208    `
+/139            0           0     0     644     269952    `
+/159            0           0     0     644     272064    `
+/174            0           0     0     644     248968    `
+/190            0           0     0     644     251056    `
+/204            0           0     0     644     256632    `
+/219            0           0     0     644     238680    `
+/241            0           0     0     644     278952    `
+/260            0           0     0     644     225736    `
+/284            0           0     0     644     252792    `
+/304            0           0     0     644     276352    `
+/324           /0           0     0     644     274752    `
+/345            0           0     0     644     288024    `
+/362            0           0     0     644     263248    `
+/377            0           0     0     644     257512    `
+/394            0           0     0     644     294296    `
+/409            0           0     0     644     250520    `
+/424            0           0     0     644     244896    `
+/443            0           0     0     644     280920    `
+/458            0           0     0     644     245168    `
+/477            0           0     0     644     68040     `
+/514            0           0     0     644     297864    `
+/549            0           0     0     644     163600    `
+/584            0           0     0     644     237616    `

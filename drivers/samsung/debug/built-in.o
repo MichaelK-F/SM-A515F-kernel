@@ -1,0 +1,30 @@
+!<thin>
+//                                              292       `
+sec_debug.o/
+sec_debug_test.o/
+sec_debug_memtab.o/
+sec_debug_init_log.o/
+sec_debug_hist.o/
+sec_debug_reset_reason.o/
+sec_debug_extra_info.o/
+sec_debug_hw_param.o/
+sec_debug_auto_comment.o/
+sec_debug_last_kmsg.o/
+sec_debug_first_kmsg.o/
+sec_debug_dtask.o/
+sec_bootstat.o/
+sec_debug_softdog.o/
+/0              0           0     0     644     206544    `
+/13             0           0     0     644     215448    `
+/31             0           0     0     644     14224     `
+/51             0           0     0     644     9848      `
+/73             0           0     0     644     92256     `
+/91             0           0     0     644     133496    `
+/117            0           0     0     644     181240    `
+/141            0           0     0     644     154696    `
+/163            0           0     0     644     115904    `
+/189            0           0     0     644     91688     `
+/212            0           0     0     644     92784     `
+/236            0           0     0     644     46344     `
+/255            0           0     0     644     144568    `
+/271            0           0     0     644     127920    `

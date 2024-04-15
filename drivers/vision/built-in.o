@@ -1,0 +1,46 @@
+!<thin>
+//                                              500       `
+vipx/vipx-binary.o/
+vipx/vipx-compat-ioctl.o/
+vipx/vipx-ioctl.o/
+vipx/vipx-debug.o/
+vipx/vipx-device.o/
+vipx/vipx-graph.o/
+vipx/vipx-graphmgr.o/
+vipx/vipx-interface.o/
+vipx/vipx-io.o/
+vipx/vipx-mailbox.o/
+vipx/vipx-memory.o/
+vipx/vipx-queue.o/
+vipx/vipx-system.o/
+vipx/vipx-taskmgr.o/
+vipx/vipx-time.o/
+vipx/vipx-core.o/
+vipx/vipx-context.o/
+vipx/vipx-kernel-binary.o/
+vipx/vipx-pm.o/
+vipx/vipx-util.o/
+vipx/platform/exynos9610/vipx-clk-exynos9610.o/
+vipx/platform/exynos9610/vipx-ctrl-exynos9610.o/
+/0              0           0     0     644     131072    `
+/20             0           0     0     644     254864    `
+/46             0           0     0     644     149888    `
+/65             0           0     0     644     213632    `
+/84             0           0     0     644     172016    `
+/104            0           0     0     644     178896    `
+/123           /0           0     0     644     173608    `
+/145            0           0     0     644     191200    `
+/168            0           0     0     644     5752      `
+/184            0           0     0     644     21456     `
+/205            0           0     0     644     156800    `
+/225            0           0     0     644     177840    `
+/244            0           0     0     644     158376    `
+/264            0           0     0     644     144352    `
+/285            0           0     0     644     9128      `
+/303            0           0     0     644     154328    `
+/321            0           0     0     644     161264    `
+/342            0           0     0     644     146096    `
+/369            0           0     0     644     141344    `
+/385            0           0     0     644     5776      `
+/403            0           0     0     644     136752    `
+/451            0           0     0     644     155296    `

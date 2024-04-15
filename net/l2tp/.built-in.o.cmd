@@ -1,0 +1,1 @@
+cmd_net/l2tp/built-in.o :=   rm -f net/l2tp/built-in.o; ./toolchain/gcc/linux-x86/aarch64/aarch64-linux-android-4.9/bin/aarch64-linux-android-ar rcSTPD net/l2tp/built-in.o net/l2tp/l2tp_core.o net/l2tp/l2tp_ppp.o 

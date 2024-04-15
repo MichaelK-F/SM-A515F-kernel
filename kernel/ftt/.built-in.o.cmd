@@ -1,0 +1,1 @@
+cmd_kernel/ftt/built-in.o :=   rm -f kernel/ftt/built-in.o; ./toolchain/gcc/linux-x86/aarch64/aarch64-linux-android-4.9/bin/aarch64-linux-android-ar rcSTPD kernel/ftt/built-in.o kernel/ftt/ftt.o kernel/ftt/ftt_rwsem.o kernel/ftt/ftt_mutex.o 

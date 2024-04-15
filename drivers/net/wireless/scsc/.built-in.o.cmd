@@ -1,0 +1,1 @@
+cmd_drivers/net/wireless/scsc/built-in.o :=   rm -f drivers/net/wireless/scsc/built-in.o; ./toolchain/gcc/linux-x86/aarch64/aarch64-linux-android-4.9/bin/aarch64-linux-android-ar rcSTPD drivers/net/wireless/scsc/built-in.o drivers/net/wireless/scsc/scsc_wlan.o drivers/net/wireless/scsc/scsc_wifilogger.o 

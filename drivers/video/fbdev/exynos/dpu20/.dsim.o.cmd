@@ -1,0 +1,1 @@
+cmd_drivers/video/fbdev/exynos/dpu20/dsim.o :=  rm -f drivers/video/fbdev/exynos/dpu20/dsim.o; ./toolchain/gcc/linux-x86/aarch64/aarch64-linux-android-4.9/bin/aarch64-linux-android-ar rcSTPD drivers/video/fbdev/exynos/dpu20/dsim.o drivers/video/fbdev/exynos/dpu20/dsim_drv.o 

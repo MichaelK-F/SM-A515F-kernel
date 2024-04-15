@@ -1,0 +1,49 @@
+!<thin>
+//                                              1070      `
+fimc-is-helper-i2c.o/
+csi2/fimc-is-hw-csi-v5_1.o/
+module_framework/fimc-is-interface-sensor.o/
+module_framework/fimc-is-interface-actuator.o/
+module_framework/fimc-is-control-sensor.o/
+module_framework/fimc-is-control-actuator.o/
+module_framework/fimc-is-device-sensor-peri.o/
+module_framework/modules/fimc-is-device-module-base.o/
+module_framework/modules/fimc-is-device-module-imx582.o/
+module_framework/modules/fimc-is-device-module-imx616.o/
+module_framework/modules/fimc-is-device-module-gc5035.o/
+module_framework/modules/fimc-is-device-module-hi1336.o/
+module_framework/cis/fimc-is-cis.o/
+module_framework/cis/fimc-is-cis-imx582.o/
+module_framework/cis/fimc-is-cis-imx616.o/
+module_framework/cis/fimc-is-cis-gc5035.o/
+module_framework/cis/fimc-is-cis-hi1336.o/
+module_framework/companion/fimc-is-companion.o/
+module_framework/actuator/fimc-is-helper-actuator-i2c.o/
+module_framework/actuator/fimc-is-actuator-dw9808.o/
+module_framework/flash/fimc-is-flash-sm5713.o/
+module_framework/pafstat/fimc-is-pafstat.o/
+module_framework/pafstat/fimc-is-hw-pafstat-v1_0.o/
+
+/0              0           0     0     644     131904    `
+/22             0           0     0     644     226528    `
+/50             0           0     0     644     618368    `
+/95             0           0     0     644     392728    `
+/142            0           0     0     644     420760    `
+/185            0           0     0     644     372936    `
+/230            0           0     0     644     529448    `
+/277            0           0     0     644     474864    `
+/332            0           0     0     644     407464    `
+/389            0           0     0     644     405992    `
+/446            0           0     0     644     407352    `
+/503            0           0     0     644     404544    `
+/560            0           0     0     644     250824    `
+/596            0           0     0     644     631272    `
+/639            0           0     0     644     641360    `
+/682            0           0     0     644     570840    `
+/725            0           0     0     644     558656    `
+/768            0           0     0     644     386600    `
+/816            0           0     0     644     117264    `
+/873            0           0     0     644     447496    `
+/926            0           0     0     644     392888    `
+/973            0           0     0     644     440368    `
+/1017           0           0     0     644     175784    `

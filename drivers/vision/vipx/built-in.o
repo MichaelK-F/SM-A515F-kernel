@@ -1,0 +1,46 @@
+!<thin>
+//                                              390       `
+vipx-binary.o/
+vipx-compat-ioctl.o/
+vipx-ioctl.o/
+vipx-debug.o/
+vipx-device.o/
+vipx-graph.o/
+vipx-graphmgr.o/
+vipx-interface.o/
+vipx-io.o/
+vipx-mailbox.o/
+vipx-memory.o/
+vipx-queue.o/
+vipx-system.o/
+vipx-taskmgr.o/
+vipx-time.o/
+vipx-core.o/
+vipx-context.o/
+vipx-kernel-binary.o/
+vipx-pm.o/
+vipx-util.o/
+platform/exynos9610/vipx-clk-exynos9610.o/
+platform/exynos9610/vipx-ctrl-exynos9610.o/
+/0              0           0     0     644     131072    `
+/15             0           0     0     644     254864    `
+/36             0           0     0     644     149888    `
+/50             0           0     0     644     213632    `
+/64             0           0     0     644     172016    `
+/79             0           0     0     644     178896    `
+/93            /0           0     0     644     173608    `
+/110            0           0     0     644     191200    `
+/128            0           0     0     644     5752      `
+/139            0           0     0     644     21456     `
+/155            0           0     0     644     156800    `
+/170            0           0     0     644     177840    `
+/184            0           0     0     644     158376    `
+/199            0           0     0     644     144352    `
+/215            0           0     0     644     9128      `
+/228            0           0     0     644     154328    `
+/241            0           0     0     644     161264    `
+/257            0           0     0     644     146096    `
+/279            0           0     0     644     141344    `
+/290            0           0     0     644     5776      `
+/303            0           0     0     644     136752    `
+/346            0           0     0     644     155296    `

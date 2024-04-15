@@ -1,0 +1,1 @@
+cmd_drivers/misc/samsung/scsc/scsc_logring.o :=  rm -f drivers/misc/samsung/scsc/scsc_logring.o; ./toolchain/gcc/linux-x86/aarch64/aarch64-linux-android-4.9/bin/aarch64-linux-android-ar rcSTPD drivers/misc/samsung/scsc/scsc_logring.o drivers/misc/samsung/scsc/scsc_logring_main.o drivers/misc/samsung/scsc/scsc_logring_ring.o drivers/misc/samsung/scsc/scsc_logring_debugfs.o 

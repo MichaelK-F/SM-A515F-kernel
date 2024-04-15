@@ -1,0 +1,41 @@
+!<thin>
+//                                              322       `
+clk-devres.o/
+clk-bulk.o/
+clkdev.o/
+clk.o/
+clk-divider.o/
+clk-fixed-factor.o/
+clk-fixed-rate.o/
+clk-gate.o/
+clk-multiplier.o/
+clk-mux.o/
+clk-composite.o/
+clk-fractional-divider.o/
+clk-gpio.o/
+clk-conf.o/
+clk-xgene.o/
+samsung/clk-exynos-audss.o/
+samsung/composite.o/
+samsung/clk-exynos9610.o/
+samsung/clk-exynos-clkout.o/
+
+/0              0           0     0     644     115432    `
+/14             0           0     0     644     115304    `
+/26             0           0     0     644     151776    `
+/36             0           0     0     644     434040    `
+/43             0           0     0     644     45224     `
+/58             0           0     0     644     140000    `
+/78             0           0     0     644     139648    `
+/96             0           0     0     644     22240     `
+/108            0           0     0     644     15176     `
+/126            0           0     0     644     27824     `
+/137           /0           0     0     644     23312     `
+/154            0           0     0     644     131528    `
+/180            0           0     0     644     133744    `
+/192            0           0     0     644     103800    `
+/204            0           0     0     644     91688     `
+/217            0           0     0     644     139672    `
+/245            0           0     0     644     152152    `
+/266            0           0     0     644     158824    `
+/292            0           0     0     644     73208     `

@@ -1,0 +1,37 @@
+!<thin>
+//                                              308       `
+ion/ion.o/
+ion/ion-ioctl.o/
+ion/ion_heap.o/
+ion/ion_system_heap.o/
+ion/ion_page_pool.o/
+ion/ion_carveout_heap.o/
+ion/ion_cma_heap.o/
+ion/ion_hpa_heap.o/
+ion/ion_fdt_exynos.o/
+ion/ion_buffer_protect.o/
+ion/ion_exynos.o/
+ion/ion_debug.o/
+ashmem.o/
+lowmemorykiller.o/
+freecess.o/
+freecess_pkg.o/
+lmkd_debug.o/
+
+/0              0           0     0     644     160200    `
+/11             0           0     0     644     94056     `
+/28             0           0     0     644     136000    `
+/44             0           0     0     644     141576    `
+/67            /0           0     0     644     149120    `
+/88             0           0     0     644     127952    `
+/113            0           0     0     644     125456    `
+/133            0           0     0     644     125728    `
+/153            0           0     0     644     137568    `
+/175            0           0     0     644     25000     `
+/201            0           0     0     644     158432    `
+/219            0           0     0     644     155040    `
+/236            0           0     0     644     170464    `
+/246            0           0     0     644     163048    `
+/265            0           0     0     644     287344    `
+/277            0           0     0     644     283736    `
+/293            0           0     0     644     109368    `

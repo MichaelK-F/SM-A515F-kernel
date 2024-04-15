@@ -1,0 +1,1 @@
+cmd_drivers/scsi/built-in.o :=   rm -f drivers/scsi/built-in.o; ./toolchain/gcc/linux-x86/aarch64/aarch64-linux-android-4.9/bin/aarch64-linux-android-ar rcSTPD drivers/scsi/built-in.o drivers/scsi/scsi_mod.o drivers/scsi/ufs/built-in.o drivers/scsi/sd_mod.o drivers/scsi/scsi_srpmb-teegris.o 
